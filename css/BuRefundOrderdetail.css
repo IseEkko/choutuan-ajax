@@ -1,0 +1,24 @@
+.order_time img {
+    width: 0.8rem;
+    height: 0.8rem;
+}
+
+.order_time>div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.xin {
+    margin-top: 0.7rem !important;
+}
+.backs {
+    position: absolute;
+    left: 0.7rem;
+    width: 0.8rem;
+    height: 0.8rem;
+    line-height: 1rem;
+}
+.backs img{
+    width: 0.8rem;
+    height: 0.8rem
+}

@@ -1,0 +1,59 @@
+.middle {
+    background-color: #F8F8F8;
+    padding: 0.8rem 0.7rem;
+}
+
+.order_detail {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 0.5rem 0.6rem 0.3rem 0.6rem;
+}
+
+.order_detail {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.6rem;
+}
+
+.order_img {
+    line-height: 0.8rem;
+}
+
+.order_img img {
+    width: 2rem;
+    height: 2em;
+}
+
+.order_name h5 {
+    font-size: 0.52rem;
+    color: #000;
+    font-weight: 400;
+}
+
+.order_detail p {
+    font-size: 0.42rem;
+    color: #000;
+}
+
+.order_detail p:last-child {
+    margin-top: 0.5rem;
+}
+
+.HoOder_button {
+    border: none;
+    color: #fff;
+    width: 1.7rem;
+    height: 0.8rem;
+    background: #0088fe;
+    border-radius: 0.3rem;
+    font-size: 0.45rem;
+}
+
+.HoOrder_price {
+    margin-top: 0.6rem;
+}
+
+.HoOrder_price p {
+    margin-bottom: -0.2rem;
+}

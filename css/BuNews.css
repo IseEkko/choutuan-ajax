@@ -1,0 +1,79 @@
+.middle {
+    background-color: #F8F8F8;
+    padding-top: 0.5rem;
+}
+
+.bunews_detail {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bunews_detail {
+    padding: 0.4rem 0.5rem 0 1rem;
+}
+
+.bunews_detail {
+    height: 2.1rem;
+    background: #ffffff;
+    border: 1px solid #f6f4f4;
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.02);
+}
+
+.bunews_img img {
+    width: 0.8rem;
+    height: 0.8rem;
+}
+
+.bunews_img {
+    width: 12%;
+}
+
+.bunews_content {
+    width: 72%;
+}
+
+.bunews_content p {
+    font-size: 0.45rem;
+    font-family: Microsoft YaHei Regular, Microsoft YaHei Regular-Regular;
+    text-align: left;
+    color: #928d8d;
+    line-height: 1.1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    /*加宽度width属来兼容部分浏览*/
+}
+
+.bunews_more p {
+    font-size: 0.4rem;
+    color: #928d8d;
+}
+
+.bunews_more {
+    width: 16%;
+    text-align: center;
+}
+
+.bunews_more>div {
+    font-size: 0.4rem;
+    color: #fff;
+    width: 0.86rem;
+    height: 0.6rem;
+    background: #f55b5b;
+    border-radius: 0.26rem;
+    text-align: center;
+    line-height: 0.6rem;
+    margin: 0.2rem auto;
+}
+
+.clear {
+    font-size: 0.42rem;
+    font-family: Microsoft YaHei Regular, Microsoft YaHei Regular-Regular;
+    text-align: right;
+    color: #000000;
+    margin: 0 0.8rem -0.3rem 0;
+}
+
+.B_rider,.B_client {
+    display: none;
+}

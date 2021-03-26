@@ -1,0 +1,65 @@
+.middle {
+    padding: 0.8rem 0.7rem 0rem 0.7rem;
+}
+
+.send {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    height: 2rem;
+    background-color: #fff;
+    line-height: 1.5rem;
+}
+
+.send_content {
+    width: 8rem;
+    height: 1.1rem;
+    background: #ffffff;
+    border: 1px solid #b2b2b2;
+    border-radius: 0.56rem;
+}
+
+.send_button {
+    width: 2.6rem;
+    height: 1.1rem;
+    background: #0088fe;
+    border-radius: 0.3rem;
+    border: none;
+    color: #fff;
+    font-size: 0.53rem;
+    margin-left: 0.4rem;
+}
+
+.middle>div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.8rem;
+}
+
+.bunews_title {
+    width: 1.4rem;
+    height: 1.4rem;
+}
+
+.bunews_title img {
+    width: 100%;
+    height: 100%;
+}
+
+.bunews_content {
+    width: 6.9rem;
+    height: 3.4rem;
+    background: #ffffff;
+    border: 1px solid #ebebeb;
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.02);
+}
+
+.bunews_content {
+    font-size: 0.4rem;
+    font-family: Microsoft YaHei Regular, Microsoft YaHei Regular-Regular;
+    font-weight: 400;
+    text-align: left;
+    color: #928d8d;
+    padding: 0.8rem 0.5rem;
+}

@@ -1,0 +1,82 @@
+.rider_affirm {
+    width: 3.5rem;
+    height: 1.1rem;
+    background: #f5be6e;
+    border-radius: 0.3rem;
+    border: none;
+    color: #fff;
+    margin-top: 0.5rem;
+    font-size: 0.46rem;
+}
+
+.order_information_btn {
+    text-align: center;
+}
+
+.order_information_btn>div {
+    margin-top: 0.5rem !important;
+}
+
+.up_window{
+    /* float: left; */
+    width: 100%;
+    height: 22rem;
+    background-color: #eeeeee;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* z-index: auto; */
+    display: none;
+}
+.up_wind{
+    width:4rem;
+    height: 3rem;
+    background-color:black;
+    /* opacity: 0.2; */
+    border-radius: 5px;
+    border: 1px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+ 
+    
+}
+.wind{
+    position: absolute;
+    /* top: 0; */
+    left: 0;
+    right: 0;
+    /* bottom: 0; */
+    margin: auto;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.up_img{
+    width: 1rem;
+    height: 1rem;
+    float: left;
+    margin-top: 0.63rem;
+    margin-left: 0.63rem;
+    background-color: #eeeeee;
+}
+.up_imgs{
+    width: 0.8rem;
+    height: 0.8rem;
+}
+.wind_font{
+    color: #eeeeee ;
+     text-align: center;
+     font-size: 0.5rem;
+}
+.wind_ft{
+    width: 100%;
+    height: 1rem;
+    position: absolute;
+    bottom: 0;
+    /* background-color:red ; */
+}

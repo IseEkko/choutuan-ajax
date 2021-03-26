@@ -1,0 +1,29 @@
+.commission {
+    background-color: #EBEBEB;
+    height: 1.6rem;
+    margin: 0.7rem 0 -0.5rem;
+    width: 100%;
+    padding-left: 0.8rem;
+}
+
+.commission span {
+    font-size: 0.6rem;
+    color: #000;
+}
+
+.middle {
+    padding: 1.4rem 0 !important;
+}
+
+.merchandise_news,.order_information {
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+}
+
+.order_information p {
+    margin-top: 0.7rem;
+}
+
+.order_information_btn>div {
+    margin: 0.2rem 0 1.2rem !important;
+}

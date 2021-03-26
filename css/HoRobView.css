@@ -1,0 +1,57 @@
+.order_information>div {
+    padding-bottom: 3rem;
+}
+
+.commission button {
+    width: 2.8rem;
+    height: 0.9rem;
+    background: #f55b5b;
+    border-radius: 0.3rem;
+    color: #fff;
+    border: none;
+    font-size: 0.45rem;
+    line-height: 0.9rem;
+    margin-left: 1.5rem;
+}
+
+body {
+    position: relative;
+}
+
+#mask {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .25);
+}
+
+.Refund_success {
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    width: 3.9rem;
+    height: 2.8rem;
+    background: rgba(0, 0, 0, .8);
+    border-radius: 0.2rem;
+    z-index: 99;
+}
+
+.Refund_success>div {
+    width: 1.1rem;
+    height: 0.8rem;
+    margin: 0.4rem auto 0.6rem;
+}
+
+.Refund_success>div>img {
+    width: 100%;
+    height: 100%;
+}
+
+.Refund_success>p{
+    color: #fff;
+    font-size: 0.46rem;
+    text-align: center;
+}

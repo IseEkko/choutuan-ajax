@@ -1,0 +1,27 @@
+.order_time p>span {
+    margin-left: 0.5rem;
+}
+
+.pass>img {
+    width: 1.6rem;
+    height: 1.6rem;
+    margin-bottom: -0.5rem;
+}
+.order_time{
+    /* background-color: blue; */
+}
+#yes{
+    display: block;
+}
+#no_pass{
+    display: none;
+}
+#checking{
+    display: none;
+}
+#update{
+    display: none;
+}
+#reason{
+    display: none;
+}
